@@ -1,6 +1,6 @@
 {
   "id": "com.fd.djaja.sap.sac.pdfviewer",
-  "version": "0.0.2",
+  "version": "1.0",
   "name": "PDFViewer",
   "description": "PDF Viewer",
   "newInstancePrefix": "PDFViewer",
@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-fd-djaja-sap-sac-pdfviewer",
-      "url": "http://localhost/SAC/sacpdfviewer/pdfviewer.js",
+      "url": "/pdfviewer.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-fd-djaja-sap-sac-pdfviewer-aps",
-      "url": "http://localhost/SAC/sacpdfviewer/aps_pdfviewer.js",
+      "url": "/aps_pdfviewer.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
